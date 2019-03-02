@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/.bin/browser-sync start --server './public' --watch"
+    "start": "./node_modules/.bin/browser-sync start --server \"./public\" --watch"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.23.6"
+    "browser-sync": "^2.26.3"
   }
 }
